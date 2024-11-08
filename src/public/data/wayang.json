@@ -1,0 +1,54 @@
+{
+    "wayang":[
+        {
+            "nama":"Wayang Kulit", 
+            "asal":"Jawa Timur",
+            "gambar" :""
+        },
+        {   
+            "nama":"Wayang Suket", 
+            "asal":"Purbalingga",
+            "gambar" :""
+        },
+        {
+            "nama":"Wayang Golek", 
+            "asal":"Jawa Barat",
+            "gambar" :""
+        },
+        {
+            "nama":"Wayang Motekar ", 
+            "asal":"Bandung",
+            "gambar" :""
+        },
+        {
+            "nama":"Wayang Beber", 
+            "asal":"Jawa Timur",
+            "gambar" :""
+        },
+        {
+            "nama":"Wayang Bambu", 
+            "asal":"Jawa Barat",
+            "gambar" :""
+        },
+        {
+            "nama":"Wayang Potehi", 
+            "asal":"Tiongkok",
+            "gambar" :""
+        },
+        {
+            "nama":"Wayang Klithik", 
+            "asal":"Jawa Tengah",
+            "gambar" :""
+        },
+        {
+            "nama":"Wayang Wong", 
+            "asal":"Jawa Tengah",
+            "gambar" :""
+        },
+        {
+            "nama":"Wayang Suluh ", 
+            "asal":"Surakarta",
+            "gambar" :""
+        }
+    ]
+}
